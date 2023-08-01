@@ -50,6 +50,10 @@ a {
   text-align: left;
   line-height: 2;
 }
+.github-link {
+  text-align: center;
+  margin-top: 50px;
+}
 
 .com-image {
   margin-right: 30px;
